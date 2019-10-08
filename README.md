@@ -1,7 +1,7 @@
 # My second project
 
 Hi humans!
-This is my first github project ever!
+This is my first master project ever!
 
 
 ---
